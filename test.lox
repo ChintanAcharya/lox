@@ -1,0 +1,2 @@
+var language = str == "lox";
+var x = 125; // x = 6
